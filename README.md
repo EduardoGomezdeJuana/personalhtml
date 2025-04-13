@@ -3,11 +3,11 @@
 1. html
 2. css
 
-[EduardoGomezdeJuana en GitHub] https://github.com/EduardoGomezdeJuana/personalhtml
+[EduardoGomezdeJuana en GitHub](https://github.com/EduardoGomezdeJuana/personalhtml)
 
 
 ### Imagen 1 del marcado
-![Marcado 1] (/Imagenes/GitHubFlow.jpg "Imagen 1")
+![Marcado 1](/Imagenes/GitHubFlow.jpg "Imagen 1")
 
 
 
