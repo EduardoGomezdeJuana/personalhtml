@@ -7,6 +7,8 @@
 
 
 ### Imagen 1 del marcado
-![Marcado 1] (/Imagenes/GitHub Flow.jpg)
+![Marcado 1] (/Imagenes/GitHubFlow.jpg "Imagen 1")
+
+
 
 
